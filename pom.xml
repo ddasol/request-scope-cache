@@ -40,7 +40,6 @@
         <connection>scm:git:git://github.com/ddasol/request-scope-cache.git</connection>
         <developerConnection>scm:git:ssh://github.com:ddasol/request-scope-cache.git</developerConnection>
         <url>https://github.com/ddasol/request-scope-cache/tree/main</url>
-      <tag>request-scope-cache-1.0.0</tag>
   </scm>
 
     <developers>
